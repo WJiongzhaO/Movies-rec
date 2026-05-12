@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+experiments/runs/*.json
+experiments/leaderboard.csv
+*.parquet
+.DS_Store
